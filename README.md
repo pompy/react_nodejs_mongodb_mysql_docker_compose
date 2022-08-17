@@ -7,7 +7,7 @@
 ### You can use Mysql via phpmyadmin 
 ### You can also access mongodb database via mongodb express 
 #### Use docker-compose build and docker-compose up to get it going
-#### http://localhost:3000/index.php for react js
+#### http://localhost:3000/ for react js
 #### http://localhost:8081/ mongodb express link
 #### http://localhost:8086/ phpmyadmin link
 #### http://localhost:5000/ nodejs link
